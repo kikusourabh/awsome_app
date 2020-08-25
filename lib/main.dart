@@ -3,12 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 
 void main() {
-  // 1. WidgetsApp
-  // 2. MaterialApp
-  // 3. Cupertinoapp
-  // runApp(WidgetsApp());
-  // runApp(MaterialApp());
-  // runApp(CupertinoApp());
   runApp(MaterialApp(
     home: HomePage(),
     theme: ThemeData(primarySwatch: Colors.cyan),
