@@ -26,4 +26,4 @@ notes
    you can switch theme colors like this
    theme: ThemeData(primarySwatch: Colors.cyan)
 
-[!sc](screenshot/sc-1.jpg)
+![sc](screenshot/sc-1.jpg)
