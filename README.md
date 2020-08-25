@@ -20,6 +20,12 @@ notes
 
    Container
    its kind of div in the html
+   every container or every widgets have a child: feild
+   decoration: BoxDecoration(color: Colors.red, shape: BoxShape.circle),
+   decoration can take color, shape and etc to decorate the container
+
+   clipBehavior: Clip.antiAlias,
+   it is use for the child widgest it contain is not out side of the shape
    Text
 
    most powerful widgets - Container & text
@@ -29,3 +35,5 @@ notes
 
    wrapping widget with another widgets
    keyboard shortcut win - CTRL+. mac - comaand+.
+
+   <img src="screenshots/sc-1.jpg" height="720">
